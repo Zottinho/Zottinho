@@ -8,7 +8,7 @@
 
 <h3>Portfólio:</h3>
 <p>
-  <a href="https://zottinho.github.io/Projetos/PortfolioDataSci/main.html/main.html" height="30" width="40" > Portfólio </a>
+  <a href="https://zottinho.github.io/Projetos/" height="30" width="40" > Portfólio </a>
 </p>
 
 
